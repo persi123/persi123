@@ -3,7 +3,7 @@
 :male_sign: `Prashant Tongra`
 
 <a href="https://www.linkedin.com/in/prashant-tongra-52a564151/" target="_blank"><img  src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/>`LinkedIn`</a> | <a href="https://twitter.com/PrashantTongra" target="_blank"><img  src="https://edcmt.com/wp-content/uploads/2017/06/twitter-bird-200x200.png" width="15" height="15" alt="twitter logo"/> `Twitter`</a>
-[![prashant tongra's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/persi123)
+
 
 
 
